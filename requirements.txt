@@ -1,0 +1,13 @@
+streamlit
+langchain
+langchain-community
+langchain-experimental
+chromadb
+python-dotenv
+google-generativeai
+pyvis
+networkx
+streamlit-cytoscapejs
+matplotlib
+scipy
+openai 
